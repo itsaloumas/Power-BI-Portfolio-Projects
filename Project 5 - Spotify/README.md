@@ -1,0 +1,1 @@
+I performed this analysis for all available countries and dates prior to July 1st, 2019 and combined the csv’s into one file called Spotify_Daily_Streaming. That can be downloaded here: https://mkt.tableau.com/Public/Datasets/Spotify_Daily_Streaming.csv.zip
